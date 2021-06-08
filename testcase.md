@@ -17,3 +17,7 @@
 - CLICK: Whatever this is not important.
 - (FIXED: [#4](https://github.com/Veckler/GitHubSeleniumTest/issues/4)) EXPECT: This issue was fixed but now reponed.
 - EXPECT: That this whole selenium thing will work.
+
+### Filelr
+
+- (BROKEN: [#5](https://github.com/Veckler/GitHubSeleniumTest/issues/5)) EXPECT: This is fixed, but the it's not updated in the testcase.
