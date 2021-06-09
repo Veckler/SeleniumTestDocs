@@ -21,3 +21,4 @@
 ### Filelr
 
 - (BROKEN: [#5](https://github.com/Veckler/GitHubSeleniumTest/issues/5)) EXPECT: This is fixed, but the it's not updated in the testcase.
+- (BROKEN: [#5](https://github.com/Veckler/GitHubSeleniumTest/issues/5)) EXPECT: I repeated the same issue because sometimes it happens.
